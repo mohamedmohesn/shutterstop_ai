@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "copper-seeker-316710",
+  "private_key_id": "9a49a390b74fff54c5dff79e73e55caa097f6629",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDaaiSmDrisLtMT\n5lwAmOIbLMaAoDzMLmvfJ3kaHeRiVK/VI+iaSKlX0U6OvK2ek10m/nzNe4OgmQpB\ndO1ojCJlKwtg9L2VjkoVij24g2mHJ/53UFvgeNYTegrJBk/Ow1ZxnwFd/mecigp0\nL5GbppflyZuWr8d9ws3Y3Yt6OYmpVCaQlCvpeMJUSFAuTUjb07T5dnCt+8J3ICNR\nYxotCxC2rSsDgCeYxElNKh0zVDVGPAEnTUcchQr14WqeQyWEMQPyNOL6Fk4pXa0O\ng6nl3uRDSAad/SRNzzHt/buJH9CtMjlLCY5iajK/+YCxLklPYkPolPL0h8+2BrB7\ndd+9nHx7AgMBAAECggEAWiwyP0Caq7OVP4T+fNyhlNiSh24gS6fqrzHLxKWMsbAG\n+/ccQ/41s+TdCv8IqwxqC/xLKEaTHE2ytz1/+obIeH4h74B7ePBK08PEIZZXjg5L\n95R8qhsZPudG5qGtd06cNMKRvO2Ydz9ie39cHSfVVHA8xSSDNv+jHqKwv+BbXkV1\ncR8P/0bEFIQCLY2GAjXw5pBRAIFrLrycaq1S55ldAyCoSSUBCJ1eXft1vDgAp8WQ\nCR5YRzb6Bt+lYMHGkz6bIt/2RBNx3Jv4cNQl8VpRYdVLeCT8+9XPXiY1r4BUVn3I\nnhBD8ml4n+2ckj8rmjmnZnAURvZ/5nAOvMNcqko40QKBgQDxGj6cypPdsAH8Uohh\nP7dG3FkEjeqEL6WLvt8T3UeBjvQXhatPOhjo1PXWuptTTU9vqdQMwlC9yKZgqE2v\nTmLmK7VRwlgvMgJQMA0cgpG4Sft9JZe+T5iqRbR0YWOPAQD4DajxOeSytRReqdF5\nrCKfhgjo7T1vcoulYfjNjzYN6QKBgQDn6QWW22N00qxQ6R9GlkE+adrr6gAVQxmj\neOCjScWxFFlSX+R5Urc7dleIEjzVhe1HniGNycDInOhrLIgG3fGhlqth1YteuhEb\nv1HYA/lrx+Jzo3ENxCF55Cmj5k8U6+BslZj8RyKNJwWZn6EHrKkOa1A1EYetraEz\nMI4FoQ5EwwKBgCLoquImzqwNfOwcwxRZll7TLqxjI+6Ju411UHVe16ihmyQAvaIW\nBl9H3mR91lmEWxkO3N4QEIK6F6TtGXplfhpXf8RbwErtEbqsimlzWkf1pk0jcUoj\n2jXlK9Ch/TlKaup/h9ONj1h0sYNXUTYtv0GbtZSMLRYC3sdOXSjeMHRpAoGAeXsN\nHHsL3DRHY5LaeUVYI/ObZB0NshWWJpW5Ro/saNg5+faVXiBAL3vMWlEDYO5o3y0s\ncnOO8weOkCWhk8dLPdQJLpSIDzT0pU5Q9xEN5LGuI9kn7Ygh6RHl5h9Mqa7tvrOW\nkgBJTxtzyYde+QAvBoicWVA3fHkJiiETJEu7h7UCgYB9OS62CUTm8D+aFtAlfsD/\nW5l5iCoKJm52pIodfVQEzSo7fiq+rAxJ9T1mZWL+JVS6auIhXiTrc7ubBS0DuVzy\nEStjhAHI6WL8Eex9wZqtfnSQkvLOV1j0SGzPFI8ezghAEUYhNo778HlrLs4XLHi8\nf9FgxLCIrsZCCWseP9edJg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "shutter-stop@copper-seeker-316710.iam.gserviceaccount.com",
+  "client_id": "106940142342649135074",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shutter-stop%40copper-seeker-316710.iam.gserviceaccount.com"
+}
